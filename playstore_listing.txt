@@ -1,0 +1,113 @@
+# ═══════════════════════════════════════
+#  LEXBLITZ — GOOGLE PLAY STORE LISTING
+#  Bundle ID: com.lexblitz.app
+# ═══════════════════════════════════════
+
+APP TITLE (50 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LexBlitz: Word Scramble Puzzle Game
+
+SHORT DESCRIPTION (80 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Race the clock! Unscramble 3,000+ words across 21 categories.
+
+LONG DESCRIPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ LexBlitz — The Ultimate Word Scramble Speed Game!
+
+Got fast fingers and a sharp mind? LexBlitz challenges you to unscramble thousands of words across 21 categories — against the clock.
+
+─────────────────────────────────────
+🎮 THREE ELECTRIFYING MODES
+─────────────────────────────────────
+
+🧩 CLASSIC — Pick a category and power through 100 scrambled words per session. Earn stars, collect coins, and unlock every category.
+
+⛓ CHAIN — Connect words where each answer's last letter starts the next word. Break the chain and lose a life. Ruthlessly satisfying.
+
+⚡ BLITZ — 60 seconds. Maximum words. Build combos, freeze the timer, chase your high score. Pure adrenaline.
+
+─────────────────────────────────────
+🏆 KEY FEATURES
+─────────────────────────────────────
+✅ 3,000+ words across 21 categories
+✅ Neon dark theme — gorgeous on OLED screens
+✅ Blast Tiles — double your score instantly
+✅ Streak combos with multipliers
+✅ Hint & Shuffle power-ups
+✅ Coin economy — earn as you play
+✅ Fully offline — no internet needed
+✅ No ads, no paywalls, 100% free
+
+─────────────────────────────────────
+📚 21 CATEGORIES
+─────────────────────────────────────
+Animals · Food · Sports · Science · Countries · Nature · Technology
+Emotions · Music · Travel · Movies · Mythology · Space · History
+Cooking · Fashion · Art · Body · Weather · Equipment · Professions
+
+Download LexBlitz and light up your vocabulary. ⚡
+
+CATEGORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Games > Word
+
+CONTENT RATING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Everyone (E) — IARC: 3+ / Everyone
+No violence, no mature content, no purchases.
+
+TAGS / KEYWORDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+word game, anagram, word scramble, word puzzle, brain game, vocabulary,
+spelling, letter game, offline game, free word game, family game,
+educational, wordle, scrabble, crossword, word challenge
+
+PRICING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Free · No in-app purchases · No ads · No subscriptions
+
+CONTACT DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Email:       support@lexblitz.app
+Website:     https://lexblitz.app
+Privacy URL: https://lexblitz.app/privacy
+
+WHAT'S NEW (First release)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 Welcome to LexBlitz v1.0!
+
+• 3 game modes: Classic, Chain & Blitz
+• 3,000+ words across 21 categories
+• Blast tiles, streak combos & coin system
+• Star ratings, hints & shuffle power-ups
+• Background music & sound effects
+• Fully offline — no internet needed
+
+Thanks for playing! Leave a review if you love it ⭐⭐⭐⭐⭐
+
+DATA SAFETY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Data collected: None
+Data shared: None
+All progress stored locally on device only.
+Committed to Play Families Policy: YES
+
+PERMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERNET — Flutter compatibility; no data transmitted
+VIBRATE  — Haptic feedback on correct/wrong answers
+
+GRAPHIC ASSETS CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ icon.png         — 512×512px (in assets/images/)
+✅ feature_image.png — 1024×500px (in assets/images/)
+✅ privacy_policy.html — host and paste URL in Play Console
+☐  Screenshots      — Capture at least 2 from device
+
+BUNDLE DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Package: com.lexblitz.app
+Version: 1.0.0 (code 1)
+Min SDK: 21 (Android 5.0)
+Target:  34 (Android 14)

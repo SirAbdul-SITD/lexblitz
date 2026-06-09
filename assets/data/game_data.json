@@ -1,0 +1,3091 @@
+{
+  "version": "1.0",
+  "total_words": 3150,
+  "categories": 21,
+  "level_data": [
+    {
+      "cat": "Animals",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Animals \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Animals \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Animals \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Animals \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Animals \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Animals \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Animals \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Animals \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Animals \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Animals",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Animals \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Food \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Food \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Food \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Food \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Food \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Food \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Food \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Food \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Food \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Food",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Food \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Sports \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Sports \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Sports \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Sports \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Sports \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Sports \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Sports \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Sports \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Sports \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Sports",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Sports \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Science \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Science \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Science \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Science \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Science \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Science \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Science \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Science \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Science \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Science",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Science \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Countries \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Countries \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Countries \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Countries \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Countries \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Countries \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Countries \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Countries \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Countries \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Countries",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Countries \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Nature \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Nature \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Nature \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Nature \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Nature \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Nature \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Nature \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Nature \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Nature \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Nature",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Nature \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Technology \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Technology \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Technology \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Technology \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Technology \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Technology \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Technology \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Technology \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Technology \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Technology",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Technology \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Emotions \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Emotions \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Emotions \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Emotions \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Emotions \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Emotions \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Emotions \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Emotions \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Emotions \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Emotions",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Emotions \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Music \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Music \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Music \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Music \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Music \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Music \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Music \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Music \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Music \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Music",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Music \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Travel \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Travel \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Travel \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Travel \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Travel \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Travel \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Travel \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Travel \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Travel \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Travel",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Travel \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Movies \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Movies \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Movies \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Movies \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Movies \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Movies \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Movies \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Movies \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Movies \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Movies",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Movies \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Mythology \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Mythology \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Mythology \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Mythology \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Mythology \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Mythology \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Mythology \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Mythology \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Mythology \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Mythology",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Mythology \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Space \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Space \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Space \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Space \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Space \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Space \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Space \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Space \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Space \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Space",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Space \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of History \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of History \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of History \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of History \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of History \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of History \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of History \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of History \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of History \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "History",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of History \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Cooking \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Cooking \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Cooking \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Cooking \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Cooking \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Cooking \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Cooking \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Cooking \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Cooking \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Cooking",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Cooking \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Fashion \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Fashion \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Fashion \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Fashion \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Fashion \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Fashion \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Fashion \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Fashion \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Fashion \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Fashion",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Fashion \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Art \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Art \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Art \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Art \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Art \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Art \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Art \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Art \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Art \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Art",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Art \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Body \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Body \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Body \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Body \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Body \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Body \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Body \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Body \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Body \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Body",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Body \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Weather \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Weather \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Weather \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Weather \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Weather \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Weather \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Weather \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Weather \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Weather \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Weather",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Weather \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Sports Equipment \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Sports Equipment \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Sports Equipment \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Sports Equipment \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Sports Equipment \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Sports Equipment \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Sports Equipment \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Sports Equipment \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Sports Equipment \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Sports Equipment \u2014 words range 12 to 16 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "description": "Level 1 of Professions \u2014 words range 3 to 7 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "description": "Level 2 of Professions \u2014 words range 4 to 8 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "description": "Level 3 of Professions \u2014 words range 5 to 9 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "description": "Level 4 of Professions \u2014 words range 6 to 10 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "description": "Level 5 of Professions \u2014 words range 7 to 11 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "description": "Level 6 of Professions \u2014 words range 8 to 12 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "description": "Level 7 of Professions \u2014 words range 9 to 13 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "description": "Level 8 of Professions \u2014 words range 10 to 14 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "description": "Level 9 of Professions \u2014 words range 11 to 15 letters long"
+    },
+    {
+      "cat": "Professions",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "description": "Level 10 of Professions \u2014 words range 12 to 16 letters long"
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach_001",
+      "name": "Achievement 1",
+      "points": 25,
+      "desc": "Solve 5 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_002",
+      "name": "Achievement 2",
+      "points": 50,
+      "desc": "Solve 10 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_003",
+      "name": "Achievement 3",
+      "points": 75,
+      "desc": "Solve 15 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_004",
+      "name": "Achievement 4",
+      "points": 100,
+      "desc": "Solve 20 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_005",
+      "name": "Achievement 5",
+      "points": 125,
+      "desc": "Solve 25 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_006",
+      "name": "Achievement 6",
+      "points": 150,
+      "desc": "Solve 30 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_007",
+      "name": "Achievement 7",
+      "points": 175,
+      "desc": "Solve 35 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_008",
+      "name": "Achievement 8",
+      "points": 200,
+      "desc": "Solve 40 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_009",
+      "name": "Achievement 9",
+      "points": 225,
+      "desc": "Solve 45 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_010",
+      "name": "Achievement 10",
+      "points": 250,
+      "desc": "Solve 50 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_011",
+      "name": "Achievement 11",
+      "points": 275,
+      "desc": "Solve 55 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_012",
+      "name": "Achievement 12",
+      "points": 300,
+      "desc": "Solve 60 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_013",
+      "name": "Achievement 13",
+      "points": 325,
+      "desc": "Solve 65 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_014",
+      "name": "Achievement 14",
+      "points": 350,
+      "desc": "Solve 70 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_015",
+      "name": "Achievement 15",
+      "points": 375,
+      "desc": "Solve 75 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_016",
+      "name": "Achievement 16",
+      "points": 400,
+      "desc": "Solve 80 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_017",
+      "name": "Achievement 17",
+      "points": 425,
+      "desc": "Solve 85 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_018",
+      "name": "Achievement 18",
+      "points": 450,
+      "desc": "Solve 90 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_019",
+      "name": "Achievement 19",
+      "points": 475,
+      "desc": "Solve 95 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_020",
+      "name": "Achievement 20",
+      "points": 500,
+      "desc": "Solve 100 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_021",
+      "name": "Achievement 21",
+      "points": 525,
+      "desc": "Solve 105 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_022",
+      "name": "Achievement 22",
+      "points": 550,
+      "desc": "Solve 110 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_023",
+      "name": "Achievement 23",
+      "points": 575,
+      "desc": "Solve 115 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_024",
+      "name": "Achievement 24",
+      "points": 600,
+      "desc": "Solve 120 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_025",
+      "name": "Achievement 25",
+      "points": 625,
+      "desc": "Solve 125 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_026",
+      "name": "Achievement 26",
+      "points": 650,
+      "desc": "Solve 130 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_027",
+      "name": "Achievement 27",
+      "points": 675,
+      "desc": "Solve 135 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_028",
+      "name": "Achievement 28",
+      "points": 700,
+      "desc": "Solve 140 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_029",
+      "name": "Achievement 29",
+      "points": 725,
+      "desc": "Solve 145 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_030",
+      "name": "Achievement 30",
+      "points": 750,
+      "desc": "Solve 150 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_031",
+      "name": "Achievement 31",
+      "points": 775,
+      "desc": "Solve 155 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_032",
+      "name": "Achievement 32",
+      "points": 800,
+      "desc": "Solve 160 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_033",
+      "name": "Achievement 33",
+      "points": 825,
+      "desc": "Solve 165 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_034",
+      "name": "Achievement 34",
+      "points": 850,
+      "desc": "Solve 170 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_035",
+      "name": "Achievement 35",
+      "points": 875,
+      "desc": "Solve 175 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_036",
+      "name": "Achievement 36",
+      "points": 900,
+      "desc": "Solve 180 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_037",
+      "name": "Achievement 37",
+      "points": 925,
+      "desc": "Solve 185 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_038",
+      "name": "Achievement 38",
+      "points": 950,
+      "desc": "Solve 190 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_039",
+      "name": "Achievement 39",
+      "points": 975,
+      "desc": "Solve 195 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_040",
+      "name": "Achievement 40",
+      "points": 1000,
+      "desc": "Solve 200 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_041",
+      "name": "Achievement 41",
+      "points": 1025,
+      "desc": "Solve 205 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_042",
+      "name": "Achievement 42",
+      "points": 1050,
+      "desc": "Solve 210 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_043",
+      "name": "Achievement 43",
+      "points": 1075,
+      "desc": "Solve 215 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_044",
+      "name": "Achievement 44",
+      "points": 1100,
+      "desc": "Solve 220 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_045",
+      "name": "Achievement 45",
+      "points": 1125,
+      "desc": "Solve 225 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_046",
+      "name": "Achievement 46",
+      "points": 1150,
+      "desc": "Solve 230 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_047",
+      "name": "Achievement 47",
+      "points": 1175,
+      "desc": "Solve 235 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_048",
+      "name": "Achievement 48",
+      "points": 1200,
+      "desc": "Solve 240 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_049",
+      "name": "Achievement 49",
+      "points": 1225,
+      "desc": "Solve 245 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_050",
+      "name": "Achievement 50",
+      "points": 1250,
+      "desc": "Solve 250 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_051",
+      "name": "Achievement 51",
+      "points": 1275,
+      "desc": "Solve 255 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_052",
+      "name": "Achievement 52",
+      "points": 1300,
+      "desc": "Solve 260 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_053",
+      "name": "Achievement 53",
+      "points": 1325,
+      "desc": "Solve 265 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_054",
+      "name": "Achievement 54",
+      "points": 1350,
+      "desc": "Solve 270 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_055",
+      "name": "Achievement 55",
+      "points": 1375,
+      "desc": "Solve 275 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_056",
+      "name": "Achievement 56",
+      "points": 1400,
+      "desc": "Solve 280 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_057",
+      "name": "Achievement 57",
+      "points": 1425,
+      "desc": "Solve 285 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_058",
+      "name": "Achievement 58",
+      "points": 1450,
+      "desc": "Solve 290 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_059",
+      "name": "Achievement 59",
+      "points": 1475,
+      "desc": "Solve 295 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_060",
+      "name": "Achievement 60",
+      "points": 1500,
+      "desc": "Solve 300 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_061",
+      "name": "Achievement 61",
+      "points": 1525,
+      "desc": "Solve 305 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_062",
+      "name": "Achievement 62",
+      "points": 1550,
+      "desc": "Solve 310 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_063",
+      "name": "Achievement 63",
+      "points": 1575,
+      "desc": "Solve 315 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_064",
+      "name": "Achievement 64",
+      "points": 1600,
+      "desc": "Solve 320 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_065",
+      "name": "Achievement 65",
+      "points": 1625,
+      "desc": "Solve 325 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_066",
+      "name": "Achievement 66",
+      "points": 1650,
+      "desc": "Solve 330 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_067",
+      "name": "Achievement 67",
+      "points": 1675,
+      "desc": "Solve 335 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_068",
+      "name": "Achievement 68",
+      "points": 1700,
+      "desc": "Solve 340 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_069",
+      "name": "Achievement 69",
+      "points": 1725,
+      "desc": "Solve 345 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_070",
+      "name": "Achievement 70",
+      "points": 1750,
+      "desc": "Solve 350 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_071",
+      "name": "Achievement 71",
+      "points": 1775,
+      "desc": "Solve 355 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_072",
+      "name": "Achievement 72",
+      "points": 1800,
+      "desc": "Solve 360 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_073",
+      "name": "Achievement 73",
+      "points": 1825,
+      "desc": "Solve 365 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_074",
+      "name": "Achievement 74",
+      "points": 1850,
+      "desc": "Solve 370 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_075",
+      "name": "Achievement 75",
+      "points": 1875,
+      "desc": "Solve 375 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_076",
+      "name": "Achievement 76",
+      "points": 1900,
+      "desc": "Solve 380 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_077",
+      "name": "Achievement 77",
+      "points": 1925,
+      "desc": "Solve 385 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_078",
+      "name": "Achievement 78",
+      "points": 1950,
+      "desc": "Solve 390 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_079",
+      "name": "Achievement 79",
+      "points": 1975,
+      "desc": "Solve 395 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_080",
+      "name": "Achievement 80",
+      "points": 2000,
+      "desc": "Solve 400 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_081",
+      "name": "Achievement 81",
+      "points": 2025,
+      "desc": "Solve 405 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_082",
+      "name": "Achievement 82",
+      "points": 2050,
+      "desc": "Solve 410 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_083",
+      "name": "Achievement 83",
+      "points": 2075,
+      "desc": "Solve 415 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_084",
+      "name": "Achievement 84",
+      "points": 2100,
+      "desc": "Solve 420 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_085",
+      "name": "Achievement 85",
+      "points": 2125,
+      "desc": "Solve 425 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_086",
+      "name": "Achievement 86",
+      "points": 2150,
+      "desc": "Solve 430 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_087",
+      "name": "Achievement 87",
+      "points": 2175,
+      "desc": "Solve 435 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_088",
+      "name": "Achievement 88",
+      "points": 2200,
+      "desc": "Solve 440 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_089",
+      "name": "Achievement 89",
+      "points": 2225,
+      "desc": "Solve 445 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_090",
+      "name": "Achievement 90",
+      "points": 2250,
+      "desc": "Solve 450 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_091",
+      "name": "Achievement 91",
+      "points": 2275,
+      "desc": "Solve 455 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_092",
+      "name": "Achievement 92",
+      "points": 2300,
+      "desc": "Solve 460 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_093",
+      "name": "Achievement 93",
+      "points": 2325,
+      "desc": "Solve 465 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_094",
+      "name": "Achievement 94",
+      "points": 2350,
+      "desc": "Solve 470 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_095",
+      "name": "Achievement 95",
+      "points": 2375,
+      "desc": "Solve 475 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_096",
+      "name": "Achievement 96",
+      "points": 2400,
+      "desc": "Solve 480 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_097",
+      "name": "Achievement 97",
+      "points": 2425,
+      "desc": "Solve 485 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_098",
+      "name": "Achievement 98",
+      "points": 2450,
+      "desc": "Solve 490 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_099",
+      "name": "Achievement 99",
+      "points": 2475,
+      "desc": "Solve 495 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_100",
+      "name": "Achievement 100",
+      "points": 2500,
+      "desc": "Solve 500 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_101",
+      "name": "Achievement 101",
+      "points": 2525,
+      "desc": "Solve 505 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_102",
+      "name": "Achievement 102",
+      "points": 2550,
+      "desc": "Solve 510 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_103",
+      "name": "Achievement 103",
+      "points": 2575,
+      "desc": "Solve 515 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_104",
+      "name": "Achievement 104",
+      "points": 2600,
+      "desc": "Solve 520 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_105",
+      "name": "Achievement 105",
+      "points": 2625,
+      "desc": "Solve 525 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_106",
+      "name": "Achievement 106",
+      "points": 2650,
+      "desc": "Solve 530 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_107",
+      "name": "Achievement 107",
+      "points": 2675,
+      "desc": "Solve 535 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_108",
+      "name": "Achievement 108",
+      "points": 2700,
+      "desc": "Solve 540 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_109",
+      "name": "Achievement 109",
+      "points": 2725,
+      "desc": "Solve 545 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_110",
+      "name": "Achievement 110",
+      "points": 2750,
+      "desc": "Solve 550 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_111",
+      "name": "Achievement 111",
+      "points": 2775,
+      "desc": "Solve 555 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_112",
+      "name": "Achievement 112",
+      "points": 2800,
+      "desc": "Solve 560 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_113",
+      "name": "Achievement 113",
+      "points": 2825,
+      "desc": "Solve 565 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_114",
+      "name": "Achievement 114",
+      "points": 2850,
+      "desc": "Solve 570 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_115",
+      "name": "Achievement 115",
+      "points": 2875,
+      "desc": "Solve 575 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_116",
+      "name": "Achievement 116",
+      "points": 2900,
+      "desc": "Solve 580 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_117",
+      "name": "Achievement 117",
+      "points": 2925,
+      "desc": "Solve 585 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_118",
+      "name": "Achievement 118",
+      "points": 2950,
+      "desc": "Solve 590 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_119",
+      "name": "Achievement 119",
+      "points": 2975,
+      "desc": "Solve 595 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_120",
+      "name": "Achievement 120",
+      "points": 3000,
+      "desc": "Solve 600 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_121",
+      "name": "Achievement 121",
+      "points": 3025,
+      "desc": "Solve 605 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_122",
+      "name": "Achievement 122",
+      "points": 3050,
+      "desc": "Solve 610 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_123",
+      "name": "Achievement 123",
+      "points": 3075,
+      "desc": "Solve 615 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_124",
+      "name": "Achievement 124",
+      "points": 3100,
+      "desc": "Solve 620 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_125",
+      "name": "Achievement 125",
+      "points": 3125,
+      "desc": "Solve 625 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_126",
+      "name": "Achievement 126",
+      "points": 3150,
+      "desc": "Solve 630 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_127",
+      "name": "Achievement 127",
+      "points": 3175,
+      "desc": "Solve 635 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_128",
+      "name": "Achievement 128",
+      "points": 3200,
+      "desc": "Solve 640 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_129",
+      "name": "Achievement 129",
+      "points": 3225,
+      "desc": "Solve 645 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_130",
+      "name": "Achievement 130",
+      "points": 3250,
+      "desc": "Solve 650 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_131",
+      "name": "Achievement 131",
+      "points": 3275,
+      "desc": "Solve 655 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_132",
+      "name": "Achievement 132",
+      "points": 3300,
+      "desc": "Solve 660 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_133",
+      "name": "Achievement 133",
+      "points": 3325,
+      "desc": "Solve 665 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_134",
+      "name": "Achievement 134",
+      "points": 3350,
+      "desc": "Solve 670 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_135",
+      "name": "Achievement 135",
+      "points": 3375,
+      "desc": "Solve 675 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_136",
+      "name": "Achievement 136",
+      "points": 3400,
+      "desc": "Solve 680 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_137",
+      "name": "Achievement 137",
+      "points": 3425,
+      "desc": "Solve 685 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_138",
+      "name": "Achievement 138",
+      "points": 3450,
+      "desc": "Solve 690 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_139",
+      "name": "Achievement 139",
+      "points": 3475,
+      "desc": "Solve 695 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_140",
+      "name": "Achievement 140",
+      "points": 3500,
+      "desc": "Solve 700 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_141",
+      "name": "Achievement 141",
+      "points": 3525,
+      "desc": "Solve 705 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_142",
+      "name": "Achievement 142",
+      "points": 3550,
+      "desc": "Solve 710 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_143",
+      "name": "Achievement 143",
+      "points": 3575,
+      "desc": "Solve 715 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_144",
+      "name": "Achievement 144",
+      "points": 3600,
+      "desc": "Solve 720 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_145",
+      "name": "Achievement 145",
+      "points": 3625,
+      "desc": "Solve 725 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_146",
+      "name": "Achievement 146",
+      "points": 3650,
+      "desc": "Solve 730 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_147",
+      "name": "Achievement 147",
+      "points": 3675,
+      "desc": "Solve 735 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_148",
+      "name": "Achievement 148",
+      "points": 3700,
+      "desc": "Solve 740 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_149",
+      "name": "Achievement 149",
+      "points": 3725,
+      "desc": "Solve 745 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_150",
+      "name": "Achievement 150",
+      "points": 3750,
+      "desc": "Solve 750 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_151",
+      "name": "Achievement 151",
+      "points": 3775,
+      "desc": "Solve 755 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_152",
+      "name": "Achievement 152",
+      "points": 3800,
+      "desc": "Solve 760 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_153",
+      "name": "Achievement 153",
+      "points": 3825,
+      "desc": "Solve 765 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_154",
+      "name": "Achievement 154",
+      "points": 3850,
+      "desc": "Solve 770 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_155",
+      "name": "Achievement 155",
+      "points": 3875,
+      "desc": "Solve 775 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_156",
+      "name": "Achievement 156",
+      "points": 3900,
+      "desc": "Solve 780 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_157",
+      "name": "Achievement 157",
+      "points": 3925,
+      "desc": "Solve 785 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_158",
+      "name": "Achievement 158",
+      "points": 3950,
+      "desc": "Solve 790 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_159",
+      "name": "Achievement 159",
+      "points": 3975,
+      "desc": "Solve 795 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_160",
+      "name": "Achievement 160",
+      "points": 4000,
+      "desc": "Solve 800 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_161",
+      "name": "Achievement 161",
+      "points": 4025,
+      "desc": "Solve 805 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_162",
+      "name": "Achievement 162",
+      "points": 4050,
+      "desc": "Solve 810 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_163",
+      "name": "Achievement 163",
+      "points": 4075,
+      "desc": "Solve 815 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_164",
+      "name": "Achievement 164",
+      "points": 4100,
+      "desc": "Solve 820 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_165",
+      "name": "Achievement 165",
+      "points": 4125,
+      "desc": "Solve 825 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_166",
+      "name": "Achievement 166",
+      "points": 4150,
+      "desc": "Solve 830 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_167",
+      "name": "Achievement 167",
+      "points": 4175,
+      "desc": "Solve 835 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_168",
+      "name": "Achievement 168",
+      "points": 4200,
+      "desc": "Solve 840 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_169",
+      "name": "Achievement 169",
+      "points": 4225,
+      "desc": "Solve 845 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_170",
+      "name": "Achievement 170",
+      "points": 4250,
+      "desc": "Solve 850 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_171",
+      "name": "Achievement 171",
+      "points": 4275,
+      "desc": "Solve 855 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_172",
+      "name": "Achievement 172",
+      "points": 4300,
+      "desc": "Solve 860 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_173",
+      "name": "Achievement 173",
+      "points": 4325,
+      "desc": "Solve 865 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_174",
+      "name": "Achievement 174",
+      "points": 4350,
+      "desc": "Solve 870 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_175",
+      "name": "Achievement 175",
+      "points": 4375,
+      "desc": "Solve 875 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_176",
+      "name": "Achievement 176",
+      "points": 4400,
+      "desc": "Solve 880 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_177",
+      "name": "Achievement 177",
+      "points": 4425,
+      "desc": "Solve 885 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_178",
+      "name": "Achievement 178",
+      "points": 4450,
+      "desc": "Solve 890 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_179",
+      "name": "Achievement 179",
+      "points": 4475,
+      "desc": "Solve 895 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_180",
+      "name": "Achievement 180",
+      "points": 4500,
+      "desc": "Solve 900 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_181",
+      "name": "Achievement 181",
+      "points": 4525,
+      "desc": "Solve 905 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_182",
+      "name": "Achievement 182",
+      "points": 4550,
+      "desc": "Solve 910 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_183",
+      "name": "Achievement 183",
+      "points": 4575,
+      "desc": "Solve 915 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_184",
+      "name": "Achievement 184",
+      "points": 4600,
+      "desc": "Solve 920 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_185",
+      "name": "Achievement 185",
+      "points": 4625,
+      "desc": "Solve 925 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_186",
+      "name": "Achievement 186",
+      "points": 4650,
+      "desc": "Solve 930 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_187",
+      "name": "Achievement 187",
+      "points": 4675,
+      "desc": "Solve 935 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_188",
+      "name": "Achievement 188",
+      "points": 4700,
+      "desc": "Solve 940 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_189",
+      "name": "Achievement 189",
+      "points": 4725,
+      "desc": "Solve 945 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_190",
+      "name": "Achievement 190",
+      "points": 4750,
+      "desc": "Solve 950 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_191",
+      "name": "Achievement 191",
+      "points": 4775,
+      "desc": "Solve 955 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_192",
+      "name": "Achievement 192",
+      "points": 4800,
+      "desc": "Solve 960 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_193",
+      "name": "Achievement 193",
+      "points": 4825,
+      "desc": "Solve 965 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_194",
+      "name": "Achievement 194",
+      "points": 4850,
+      "desc": "Solve 970 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_195",
+      "name": "Achievement 195",
+      "points": 4875,
+      "desc": "Solve 975 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_196",
+      "name": "Achievement 196",
+      "points": 4900,
+      "desc": "Solve 980 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_197",
+      "name": "Achievement 197",
+      "points": 4925,
+      "desc": "Solve 985 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_198",
+      "name": "Achievement 198",
+      "points": 4950,
+      "desc": "Solve 990 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_199",
+      "name": "Achievement 199",
+      "points": 4975,
+      "desc": "Solve 995 words to unlock this achievement and claim your reward"
+    },
+    {
+      "id": "ach_200",
+      "name": "Achievement 200",
+      "points": 5000,
+      "desc": "Solve 1000 words to unlock this achievement and claim your reward"
+    }
+  ],
+  "tips": [
+    "Tip 1: Try the shuffle button if you feel stuck",
+    "Tip 2: Hints reveal one correct letter for 10 coins",
+    "Tip 3: Build streaks for multiplier bonuses",
+    "Tip 4: Blast tiles double your word score",
+    "Tip 5: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 6: Stars depend on speed and hints used",
+    "Tip 7: Chain mode \u2014 last letter starts the next word",
+    "Tip 8: Classic mode gives 100 fresh words every session",
+    "Tip 9: Coins are earned from completing levels",
+    "Tip 10: The longer the word, the more base points it earns",
+    "Tip 11: Try the shuffle button if you feel stuck",
+    "Tip 12: Hints reveal one correct letter for 10 coins",
+    "Tip 13: Build streaks for multiplier bonuses",
+    "Tip 14: Blast tiles double your word score",
+    "Tip 15: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 16: Stars depend on speed and hints used",
+    "Tip 17: Chain mode \u2014 last letter starts the next word",
+    "Tip 18: Classic mode gives 100 fresh words every session",
+    "Tip 19: Coins are earned from completing levels",
+    "Tip 20: The longer the word, the more base points it earns",
+    "Tip 21: Try the shuffle button if you feel stuck",
+    "Tip 22: Hints reveal one correct letter for 10 coins",
+    "Tip 23: Build streaks for multiplier bonuses",
+    "Tip 24: Blast tiles double your word score",
+    "Tip 25: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 26: Stars depend on speed and hints used",
+    "Tip 27: Chain mode \u2014 last letter starts the next word",
+    "Tip 28: Classic mode gives 100 fresh words every session",
+    "Tip 29: Coins are earned from completing levels",
+    "Tip 30: The longer the word, the more base points it earns",
+    "Tip 31: Try the shuffle button if you feel stuck",
+    "Tip 32: Hints reveal one correct letter for 10 coins",
+    "Tip 33: Build streaks for multiplier bonuses",
+    "Tip 34: Blast tiles double your word score",
+    "Tip 35: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 36: Stars depend on speed and hints used",
+    "Tip 37: Chain mode \u2014 last letter starts the next word",
+    "Tip 38: Classic mode gives 100 fresh words every session",
+    "Tip 39: Coins are earned from completing levels",
+    "Tip 40: The longer the word, the more base points it earns",
+    "Tip 41: Try the shuffle button if you feel stuck",
+    "Tip 42: Hints reveal one correct letter for 10 coins",
+    "Tip 43: Build streaks for multiplier bonuses",
+    "Tip 44: Blast tiles double your word score",
+    "Tip 45: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 46: Stars depend on speed and hints used",
+    "Tip 47: Chain mode \u2014 last letter starts the next word",
+    "Tip 48: Classic mode gives 100 fresh words every session",
+    "Tip 49: Coins are earned from completing levels",
+    "Tip 50: The longer the word, the more base points it earns",
+    "Tip 51: Try the shuffle button if you feel stuck",
+    "Tip 52: Hints reveal one correct letter for 10 coins",
+    "Tip 53: Build streaks for multiplier bonuses",
+    "Tip 54: Blast tiles double your word score",
+    "Tip 55: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 56: Stars depend on speed and hints used",
+    "Tip 57: Chain mode \u2014 last letter starts the next word",
+    "Tip 58: Classic mode gives 100 fresh words every session",
+    "Tip 59: Coins are earned from completing levels",
+    "Tip 60: The longer the word, the more base points it earns",
+    "Tip 61: Try the shuffle button if you feel stuck",
+    "Tip 62: Hints reveal one correct letter for 10 coins",
+    "Tip 63: Build streaks for multiplier bonuses",
+    "Tip 64: Blast tiles double your word score",
+    "Tip 65: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 66: Stars depend on speed and hints used",
+    "Tip 67: Chain mode \u2014 last letter starts the next word",
+    "Tip 68: Classic mode gives 100 fresh words every session",
+    "Tip 69: Coins are earned from completing levels",
+    "Tip 70: The longer the word, the more base points it earns",
+    "Tip 71: Try the shuffle button if you feel stuck",
+    "Tip 72: Hints reveal one correct letter for 10 coins",
+    "Tip 73: Build streaks for multiplier bonuses",
+    "Tip 74: Blast tiles double your word score",
+    "Tip 75: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 76: Stars depend on speed and hints used",
+    "Tip 77: Chain mode \u2014 last letter starts the next word",
+    "Tip 78: Classic mode gives 100 fresh words every session",
+    "Tip 79: Coins are earned from completing levels",
+    "Tip 80: The longer the word, the more base points it earns",
+    "Tip 81: Try the shuffle button if you feel stuck",
+    "Tip 82: Hints reveal one correct letter for 10 coins",
+    "Tip 83: Build streaks for multiplier bonuses",
+    "Tip 84: Blast tiles double your word score",
+    "Tip 85: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 86: Stars depend on speed and hints used",
+    "Tip 87: Chain mode \u2014 last letter starts the next word",
+    "Tip 88: Classic mode gives 100 fresh words every session",
+    "Tip 89: Coins are earned from completing levels",
+    "Tip 90: The longer the word, the more base points it earns",
+    "Tip 91: Try the shuffle button if you feel stuck",
+    "Tip 92: Hints reveal one correct letter for 10 coins",
+    "Tip 93: Build streaks for multiplier bonuses",
+    "Tip 94: Blast tiles double your word score",
+    "Tip 95: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 96: Stars depend on speed and hints used",
+    "Tip 97: Chain mode \u2014 last letter starts the next word",
+    "Tip 98: Classic mode gives 100 fresh words every session",
+    "Tip 99: Coins are earned from completing levels",
+    "Tip 100: The longer the word, the more base points it earns",
+    "Tip 101: Try the shuffle button if you feel stuck",
+    "Tip 102: Hints reveal one correct letter for 10 coins",
+    "Tip 103: Build streaks for multiplier bonuses",
+    "Tip 104: Blast tiles double your word score",
+    "Tip 105: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 106: Stars depend on speed and hints used",
+    "Tip 107: Chain mode \u2014 last letter starts the next word",
+    "Tip 108: Classic mode gives 100 fresh words every session",
+    "Tip 109: Coins are earned from completing levels",
+    "Tip 110: The longer the word, the more base points it earns",
+    "Tip 111: Try the shuffle button if you feel stuck",
+    "Tip 112: Hints reveal one correct letter for 10 coins",
+    "Tip 113: Build streaks for multiplier bonuses",
+    "Tip 114: Blast tiles double your word score",
+    "Tip 115: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 116: Stars depend on speed and hints used",
+    "Tip 117: Chain mode \u2014 last letter starts the next word",
+    "Tip 118: Classic mode gives 100 fresh words every session",
+    "Tip 119: Coins are earned from completing levels",
+    "Tip 120: The longer the word, the more base points it earns",
+    "Tip 121: Try the shuffle button if you feel stuck",
+    "Tip 122: Hints reveal one correct letter for 10 coins",
+    "Tip 123: Build streaks for multiplier bonuses",
+    "Tip 124: Blast tiles double your word score",
+    "Tip 125: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 126: Stars depend on speed and hints used",
+    "Tip 127: Chain mode \u2014 last letter starts the next word",
+    "Tip 128: Classic mode gives 100 fresh words every session",
+    "Tip 129: Coins are earned from completing levels",
+    "Tip 130: The longer the word, the more base points it earns",
+    "Tip 131: Try the shuffle button if you feel stuck",
+    "Tip 132: Hints reveal one correct letter for 10 coins",
+    "Tip 133: Build streaks for multiplier bonuses",
+    "Tip 134: Blast tiles double your word score",
+    "Tip 135: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 136: Stars depend on speed and hints used",
+    "Tip 137: Chain mode \u2014 last letter starts the next word",
+    "Tip 138: Classic mode gives 100 fresh words every session",
+    "Tip 139: Coins are earned from completing levels",
+    "Tip 140: The longer the word, the more base points it earns",
+    "Tip 141: Try the shuffle button if you feel stuck",
+    "Tip 142: Hints reveal one correct letter for 10 coins",
+    "Tip 143: Build streaks for multiplier bonuses",
+    "Tip 144: Blast tiles double your word score",
+    "Tip 145: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 146: Stars depend on speed and hints used",
+    "Tip 147: Chain mode \u2014 last letter starts the next word",
+    "Tip 148: Classic mode gives 100 fresh words every session",
+    "Tip 149: Coins are earned from completing levels",
+    "Tip 150: The longer the word, the more base points it earns",
+    "Tip 151: Try the shuffle button if you feel stuck",
+    "Tip 152: Hints reveal one correct letter for 10 coins",
+    "Tip 153: Build streaks for multiplier bonuses",
+    "Tip 154: Blast tiles double your word score",
+    "Tip 155: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 156: Stars depend on speed and hints used",
+    "Tip 157: Chain mode \u2014 last letter starts the next word",
+    "Tip 158: Classic mode gives 100 fresh words every session",
+    "Tip 159: Coins are earned from completing levels",
+    "Tip 160: The longer the word, the more base points it earns",
+    "Tip 161: Try the shuffle button if you feel stuck",
+    "Tip 162: Hints reveal one correct letter for 10 coins",
+    "Tip 163: Build streaks for multiplier bonuses",
+    "Tip 164: Blast tiles double your word score",
+    "Tip 165: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 166: Stars depend on speed and hints used",
+    "Tip 167: Chain mode \u2014 last letter starts the next word",
+    "Tip 168: Classic mode gives 100 fresh words every session",
+    "Tip 169: Coins are earned from completing levels",
+    "Tip 170: The longer the word, the more base points it earns",
+    "Tip 171: Try the shuffle button if you feel stuck",
+    "Tip 172: Hints reveal one correct letter for 10 coins",
+    "Tip 173: Build streaks for multiplier bonuses",
+    "Tip 174: Blast tiles double your word score",
+    "Tip 175: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 176: Stars depend on speed and hints used",
+    "Tip 177: Chain mode \u2014 last letter starts the next word",
+    "Tip 178: Classic mode gives 100 fresh words every session",
+    "Tip 179: Coins are earned from completing levels",
+    "Tip 180: The longer the word, the more base points it earns",
+    "Tip 181: Try the shuffle button if you feel stuck",
+    "Tip 182: Hints reveal one correct letter for 10 coins",
+    "Tip 183: Build streaks for multiplier bonuses",
+    "Tip 184: Blast tiles double your word score",
+    "Tip 185: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 186: Stars depend on speed and hints used",
+    "Tip 187: Chain mode \u2014 last letter starts the next word",
+    "Tip 188: Classic mode gives 100 fresh words every session",
+    "Tip 189: Coins are earned from completing levels",
+    "Tip 190: The longer the word, the more base points it earns",
+    "Tip 191: Try the shuffle button if you feel stuck",
+    "Tip 192: Hints reveal one correct letter for 10 coins",
+    "Tip 193: Build streaks for multiplier bonuses",
+    "Tip 194: Blast tiles double your word score",
+    "Tip 195: Freeze stops the Blitz clock for 5 seconds",
+    "Tip 196: Stars depend on speed and hints used",
+    "Tip 197: Chain mode \u2014 last letter starts the next word",
+    "Tip 198: Classic mode gives 100 fresh words every session",
+    "Tip 199: Coins are earned from completing levels",
+    "Tip 200: The longer the word, the more base points it earns"
+  ]
+}
