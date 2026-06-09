@@ -111,14 +111,6 @@ class _SettingsScreenState extends State<SettingsScreen> {
                         color: AppTheme.textLight,
                       ),
                     ),
-                    Text(
-                      'com.kadesh.anagramblast',
-                      style: TextStyle(
-                        fontFamily: 'Nunito',
-                        fontSize: 12,
-                        color: AppTheme.textLight,
-                      ),
-                    ),
                   ],
                 ),
               ),
